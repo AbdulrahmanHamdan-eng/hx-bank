@@ -1,0 +1,9 @@
+# GET https://hamid-bankapp.herokuapp.com/customers
+
+PUT  https://hamid-bankapp.herokuapp.com/customers/hind
+Content-Type:  application/json
+
+{
+"customerName":"ali",
+"amt":1300
+}
